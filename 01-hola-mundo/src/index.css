@@ -1,0 +1,15 @@
+/* Estilos mínimos para el módulo 01 — lo importante acá es el JSX, no el CSS */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  background: #1a1a2e;
+  color: #f5f5f5;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
